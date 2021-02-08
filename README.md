@@ -11,10 +11,10 @@ so GitHub is a website and service that provide all these services.
 
 # Private repo Vs Public repo
 
-# Private reo: 
+## Private repo: 
  A private repo is in which the owner can choose who can see or commit to this repositry.
 
-# Public:
+## Public repo:
 In a public repo Anyone on the internet can see this repository. You choose who can commit.
 
 # TO clone a repo:
