@@ -1,4 +1,4 @@
-# what is the use of github.
+# What is the use of Github.
 
 
 git is a open source commmand line version control system
@@ -17,7 +17,7 @@ so GitHub is a website and service that provide all these services.
 ## Public repo:
 In a public repo Anyone on the internet can see this repository. You choose who can commit.
 
-# TO clone a repo:
+# To clone a repo:
 git clone http url
 
  # To create Branch:
