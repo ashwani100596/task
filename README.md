@@ -62,7 +62,7 @@ A Pull Request is a Git feature used to present changes made on independent bran
 # What are tags:
 Git supports two types of tags: lightweight and annotated. 
 
-## lightweight tag:
+## Lightweight tag:
 It is very much like a branch that doesn’t change — it’s just a pointer to a specific commit.
 
 
